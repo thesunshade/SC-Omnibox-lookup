@@ -1,0 +1,27 @@
+{
+  "name": "SuttaCentral search",
+  "description": "To use, type 'sc' plus a search term into the url bar.",
+  "version": "1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "52.0a1"
+    }
+  },
+  "background": {
+    "scripts": [
+      "scripts/browser-polyfill.js",
+      "background.js"
+    ]
+  },
+  "omnibox": {
+    "keyword": "sc"
+  },
+  "manifest_version": 2,
+  "permissions": [
+    "https://suttaCentral.net/",
+    "https://discourse.suttacentral.net/"
+  ],
+  "icons": {
+    "48": "images/icon.png"
+  }
+}
