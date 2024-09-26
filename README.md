@@ -12,7 +12,7 @@ Or type 'sc' and a citation or name of a sutta. suggestions will appear.
 
 ## Installation from source
 
-If you want to try out this unbunded version, you will need to download all the files to your desktop. The following video explains how to install in Chrome and Firefox:
+If you want to try out this unbunded version, you will need to download all the files to your desktop. Click on the green "Code" button above and download as a zip file. Then extract. The following video explains how to install in Chrome and Firefox:
 
 [Install unpacked extension](https://www.youtube.com/watch?v=dhaGRJvJAII&t=53s)
 
